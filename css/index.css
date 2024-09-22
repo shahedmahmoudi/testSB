@@ -1,0 +1,12 @@
+.background {
+    background-image: url('./background.jpg'); /* Adjust the filename as necessary */
+    background-size: cover;
+    background-position: center;
+    height: 100vh; /* Full viewport height */
+    display: flex;
+    align-items: self-start;
+    justify-content: center;
+    color: rgb(0, 0, 0); /* Adjust text color as needed */
+    text-align: center;
+    padding-top: 50px;
+  }
